@@ -1,1 +1,3 @@
 A new file to test the commit
+
+Ive made some changes on the new file
